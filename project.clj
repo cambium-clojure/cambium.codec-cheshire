@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :min-lein-version "2.2.0"
   :pedantic? :abort
-  :dependencies [[cheshire "5.8.0"]]
+  :dependencies [[cheshire "5.8.1"]]
   :global-vars {*assert* true
                 *warn-on-reflection* true
                 *unchecked-math* :warn-on-boxed}

@@ -2,7 +2,7 @@
 
 ## [WIP] 0.9.3 / 2019-May-??
 
-- [Todo] Upgrade Cheshire to version `5.8.1` (Jackson `2.9.6`)
+- Upgrade Cheshire to version `5.8.1` (Jackson `2.9.6`)
 
 
 ## 0.9.2 / 2018-March-22
