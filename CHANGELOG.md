@@ -1,6 +1,6 @@
 # cambium.codec-cheshire - TODO and Change Log
 
-## [WIP] 0.9.3 / 2019-May-??
+## 0.9.3 / 2019-May-07
 
 - Upgrade Cheshire to version `5.8.1` (Jackson `2.9.6`)
 

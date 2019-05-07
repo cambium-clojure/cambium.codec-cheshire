@@ -1,4 +1,4 @@
-(defproject cambium/cambium.codec-cheshire "0.9.3-SNAPSHOT"
+(defproject cambium/cambium.codec-cheshire "0.9.3"
   :description "A nesting-aware codec for Cambium using Cheshire"
   :url "https://github.com/cambium-clojure/cambium.codec-cheshire"
   :license {:name "Eclipse Public License"

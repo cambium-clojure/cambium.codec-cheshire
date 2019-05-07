@@ -5,7 +5,7 @@ A nesting-aware codec for Cambium using Cheshire.
 
 ## Clojars coordinates
 
-`[cambium/cambium.codec-cheshire "0.9.2"]`
+`[cambium/cambium.codec-cheshire "0.9.3"]`
 
 
 ## Documentation
