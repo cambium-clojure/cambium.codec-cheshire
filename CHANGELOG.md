@@ -1,6 +1,6 @@
 # cambium.codec-cheshire - TODO and Change Log
 
-## 1.0.0-beta4 / 2019-July-08
+## 1.0.0-rc1 / 2019-July-09
 
 - Marker release
 
