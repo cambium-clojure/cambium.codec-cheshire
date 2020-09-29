@@ -1,5 +1,11 @@
 # cambium.codec-cheshire - TODO and Change Log
 
+## [WIP] 1.0.0 / 2020-September-??
+
+- Drop support for Clojure 1.5.x
+- Update Cheshire to version `5.10.0` (Jackson `2.10.2`)
+
+
 ## 1.0.0-rc1 / 2019-July-09
 
 - Marker release
