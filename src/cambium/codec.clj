@@ -17,7 +17,7 @@
   ^String [^Object x]
   (cond
     (instance?
-      clojure.lang.Named x) (if-let [^String the-ns (namespace x)]
+      clojure.lang.Named x) (if-some [^String the-ns (namespace x)]
                               (let [^StringBuilder sb (StringBuilder. the-ns)]
                                 (.append sb \/)
                                 (.append sb (name x))
